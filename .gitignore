@@ -1,0 +1,28 @@
+# Ortam ve gizli bilgiler
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+ENV/
+
+# Veri ve loglar (isteğe bağlı: yorumu kaldırarak dahil etmeyebilirsin)
+# data/logs/
+# data/*.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Dağıtım / derleme
+*.egg-info/
+dist/
+build/

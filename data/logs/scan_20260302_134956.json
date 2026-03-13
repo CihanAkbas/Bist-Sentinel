@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-03-02T13:40:10",
+  "total_symbols": 100,
+  "scanned": 86,
+  "no_data": 14,
+  "errors": 0,
+  "ema_below": 37,
+  "squeeze_on": 10,
+  "signals": 0,
+  "signal_symbols": [],
+  "elimination_divergence": 0,
+  "elimination_rvol": 0,
+  "elimination_rs_weak": 0,
+  "elimination_market_risk_rsi": 0
+}

@@ -1,0 +1,16 @@
+Tarama Özeti — 2026-02-26T09:30:00
+==================================================
+Toplam sembol:     100
+Taranan (veri var): 92
+Veri yok:          8
+Hata (atlandı):    0
+EMA200 altında:    36
+Sıkışmada (squeeze on): 3
+Sinyal sayısı:     1
+Sinyal verenler:   ZOREN
+
+Eleme Detayları:
+  RSI Uyumsuzluğu: 0
+  RVOL (hacim):    0
+  Zayıf RS (RS<1): 0
+  Piyasa riski+RSI: 0

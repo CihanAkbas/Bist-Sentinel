@@ -1,0 +1,16 @@
+# BIST100 Trading Bot - Bağımlılıklar
+# TradingView veri çekici (PyPI'da tvdatafeed yok; fork: tradingview-datafeed)
+tradingview-datafeed>=2.0.0
+# vectorbt ve benzeri paketler pandas<3 istiyor; 2.x ile sınırlıyoruz
+pandas>=2.0.0,<3.0
+pandas-ta>=0.3.14b
+numpy>=1.24.0
+requests>=2.28.0
+feedparser>=6.0.0
+cloudscraper>=1.2.71
+python-telegram-bot>=20.0
+python-dotenv>=1.0.0
+google-genai>=1.0.0
+# mplfinance: PyPI'da sadece beta var (0.12.10b0). Kurulum hatası alırsan: pip install --pre mplfinance
+mplfinance>=0.12.10b0
+matplotlib>=3.5.0

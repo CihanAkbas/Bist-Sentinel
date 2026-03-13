@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-03-10T09:34:26",
+  "total_symbols": 100,
+  "scanned": 95,
+  "no_data": 5,
+  "errors": 0,
+  "ema_below": 48,
+  "squeeze_on": 11,
+  "signals": 1,
+  "signal_symbols": [
+    "VAKBN"
+  ],
+  "elimination_divergence": 0,
+  "elimination_rvol": 0,
+  "elimination_rs_weak": 0,
+  "elimination_market_risk_rsi": 0
+}

@@ -1,0 +1,16 @@
+Tarama Özeti — 2026-03-10T09:34:26
+==================================================
+Toplam sembol:     100
+Taranan (veri var): 95
+Veri yok:          5
+Hata (atlandı):    0
+EMA200 altında:    48
+Sıkışmada (squeeze on): 11
+Sinyal sayısı:     1
+Sinyal verenler:   VAKBN
+
+Eleme Detayları:
+  RSI Uyumsuzluğu: 0
+  RVOL (hacim):    0
+  Zayıf RS (RS<1): 0
+  Piyasa riski+RSI: 0

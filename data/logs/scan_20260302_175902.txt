@@ -1,0 +1,16 @@
+Tarama Özeti — 2026-03-02T17:49:58
+==================================================
+Toplam sembol:     100
+Taranan (veri var): 89
+Veri yok:          11
+Hata (atlandı):    0
+EMA200 altında:    37
+Sıkışmada (squeeze on): 14
+Sinyal sayısı:     0
+Sinyal verenler:   -
+
+Eleme Detayları:
+  RSI Uyumsuzluğu: 0
+  RVOL (hacim):    0
+  Zayıf RS (RS<1): 0
+  Piyasa riski+RSI: 0

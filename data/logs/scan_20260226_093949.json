@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-02-26T09:30:00",
+  "total_symbols": 100,
+  "scanned": 92,
+  "no_data": 8,
+  "errors": 0,
+  "ema_below": 36,
+  "squeeze_on": 3,
+  "signals": 1,
+  "signal_symbols": [
+    "ZOREN"
+  ],
+  "elimination_divergence": 0,
+  "elimination_rvol": 0,
+  "elimination_rs_weak": 0,
+  "elimination_market_risk_rsi": 0
+}
